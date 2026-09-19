@@ -1,0 +1,13 @@
+{
+  "name": "jev-test",
+  "private": true,
+  "engines": {
+    "bun": ">=1.0"
+  },
+  "scripts": {
+    "dev": "bun src/screen.js"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "^0.6.0"
+  }
+}
